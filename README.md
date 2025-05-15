@@ -1,2 +1,2 @@
 # project_1
-kssem workshop on github day1
+kssem workshop on github
